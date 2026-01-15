@@ -35,12 +35,10 @@ Previously, I worked as a **Software Engineer Intern at Adaptive Biotechnologies
 ## 💼 Experience
 
 **Software Engineer Intern — Adaptive Biotechnologies**  
-*Seattle, WA | May 2023 – Aug 2023*
-- Built a reusable **Spring Boot microservice template** adopted by 30+ engineers  
-- Implemented **eventual consistency** using Apache Kafka across microservices  
-- Integrated Kafka producers/consumers using the **command bus pattern**  
-- Designed RESTful APIs and data mappings with JPA and MapStruct  
-- Wrote unit tests with JUnit and Mockito following clean testing practices  
+*Seattle, WA | May 2023 – Aug 2023*  
+
+**Software Engineer Intern — Pacific Coast Companies Inc**  
+*Rancho Cordova, CA | Aug 2022 – Apr 2023*  
 
 ---
 
