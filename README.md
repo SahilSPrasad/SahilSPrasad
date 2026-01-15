@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I’m Sahil 👋
 
-<!--
-**SahilSPrasad/SahilSPrasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Computer Science @ Georgia Tech (Expected May 2028)  
+🎓 BS in Computer Science @ California State University, Sacramento  
+💻 Software Engineer | Backend & Distributed Systems  
+📍 Sacramento, CA, United States  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a software engineer with a strong interest in **backend systems, distributed architectures, and scalable services**.  
+I enjoy building reliable systems using **Java, Spring Boot, and event-driven architectures**, and I’m always looking to deepen my understanding of system design and performance.
+
+Previously, I worked as a **Software Engineer Intern at Adaptive Biotechnologies**, where I contributed to production microservices used by real-world scientific platforms.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Java, Python, C++, SQL
+
+**Backend & Systems**
+- Spring Boot, REST APIs, Kafka, JPA/Hibernate, React
+- Microservices, Event-Driven Architecture, Distributed Systems
+
+**Infrastructure & Tools**
+- Docker, Terraform, Git, Linux
+- JUnit, Mockito
+- AWS (EC2, S3 – working knowledge)
+
+---
+
+## 💼 Experience
+
+**Software Engineer Intern — Adaptive Biotechnologies**  
+*Seattle, WA | May 2023 – Aug 2023*
+- Built a reusable **Spring Boot microservice template** adopted by 30+ engineers  
+- Implemented **eventual consistency** using Apache Kafka across microservices  
+- Integrated Kafka producers/consumers using the **command bus pattern**  
+- Designed RESTful APIs and data mappings with JPA and MapStruct  
+- Wrote unit tests with JUnit and Mockito following clean testing practices  
+
+---
+
+## 📌 Featured Projects
+
+🔹 **Topography Pathfinder (C++)**  
+- Implemented graph-based pathfinding over elevation maps using efficient data structures  
+- Optimized traversal logic to account for terrain cost and elevation constraints  
+
+🔹 **Farmfolio (React, Spring Boot, H2)**  
+- Built a full-stack web application with a Spring Boot REST API and React frontend  
+- Designed relational data models using H2 and implemented CRUD endpoints for core entities  
+
+🔹 **Mandelbrot Set Visualizer (C++)**  
+- Rendered the Mandelbrot fractal using complex number iteration and pixel-level computation  
+- Optimized rendering performance through efficient looping and coordinate mapping  
+
+🔹 **Rainmaker Game Engine (JavaFX)**  
+- Designed an object-oriented game engine using interfaces and state patterns  
+- Implemented a modular transient object system with update loops and animations
+- A masterclass in design patterns
+
+> Check out my pinned repositories below 👇
+
+---
+
+## 📈 What I’m Currently Working On
+
+- Deepening knowledge of **distributed systems & system design**
+- Building **production-ready Spring Boot services**
+
+---
+
+## 📫 Let’s Connect
+
+- **LinkedIn:** [https://www.linkedin.com/in/sahilsprasad/](#)
+- **Email:** sahilsprasad1@gmail.com
+---
