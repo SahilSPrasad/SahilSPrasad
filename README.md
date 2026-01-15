@@ -13,7 +13,7 @@ I’m a software engineer with a strong interest in **backend systems, distribut
 
 ## 🛠 Tech
 **Languages:** Java, Python, C++, SQL  
-**Backend:** Spring Boot, REST, Kafka, JPA/Hibernate, React  
+**Systems:** Spring Boot, REST, Kafka, JPA/Hibernate, React  
 **Infra:** Docker, Terraform, AWS (EC2, S3), Git, Linux  
 **Testing:** JUnit, Mockito  
 
