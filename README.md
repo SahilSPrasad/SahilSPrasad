@@ -7,7 +7,8 @@
 ---
 
 ## 🚀 About
-I’m a software engineer with a strong interest in **backend systems, distributed architectures, and scalable services**. I enjoy building reliable systems using **Java, Spring Boot, and event-driven architectures**, and I’m always looking to deepen my understanding of system design and performance.
+I build **backend systems, distributed architectures, and scalable services**.  
+Experienced with **Java, Spring Boot, Kafka**, and designing reliable, production-ready services.
 
 ---
 
@@ -16,12 +17,6 @@ I’m a software engineer with a strong interest in **backend systems, distribut
 **Systems:** Spring Boot, REST, Kafka, JPA/Hibernate, React  
 **Infra:** Docker, Terraform, AWS (EC2, S3), Git, Linux  
 **Testing:** JUnit, Mockito  
-
----
-
-## 💼 Experience
-**Software Engineer Intern — Adaptive Biotechnologies** *(Seattle, WA | 2023)*  
-**Software Engineer Intern — Pacific Coast Companies Inc** *(Rancho Cordova, CA | 2022–2023)*  
 
 ---
 
