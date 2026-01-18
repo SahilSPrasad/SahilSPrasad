@@ -7,8 +7,8 @@
 ---
 
 ## 🚀 About
-I build **backend systems, distributed architectures, and scalable services**.  
-Experienced with **Java, Spring Boot, Kafka**, and designing reliable, production-ready services.
+I build **backend systems, distributed architectures, and embedded systems**.  
+Experienced with **Java, C++, Spring Boot, Kafka**, and designing reliable, production-ready structures.
 
 ---
 
